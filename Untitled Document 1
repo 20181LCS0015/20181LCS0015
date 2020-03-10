@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1::after {
+  content: url(/home/Sem6B12/Downloads/in.jpeg);
+}
+</style>
+</head>
+<body>
+
+<h1>hehehehe</h1>
+<p>when i was in kid</p>
+
+</body>
+</html>
+
